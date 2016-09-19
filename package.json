@@ -1,13 +1,13 @@
 {
-  "name": "boilerplate",
+  "name": "react-todo",
   "version": "1.0.0",
-  "description": "Simple react app",
+  "description": "Simple to-do react app",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
     "start": "node server.js"
   },
-  "author": "Andrew Mead",
+  "author": "Nick Hester",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.14.0",
